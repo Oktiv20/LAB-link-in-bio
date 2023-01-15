@@ -7,7 +7,7 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border-radius: 50%;
+  border-radius: 70%;
   padding-top: 20px;
   padding-bottom: 20px;
 }
@@ -40,7 +40,7 @@ body {
   width: 80%;
   background-color: black;
   color: white;
-  font-family: 'Pacifico', cursive;
+  font-family: "Pacifico", cursive;
   font-size: 20px;
   opacity: 1;
   transition: 0.3s;
