@@ -1,0 +1,56 @@
+body {
+  background-color: olivedrab;
+  background: linear-gradient(90deg, olivedrab 50%, rgba(108, 145, 105, 0.329));
+}
+
+.photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.n {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+
+.k {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 25px;
+}
+
+.socialmedia {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  border-radius: 30%;
+}
+
+.btn {
+  margin: 5px;
+  width: 80%;
+  background-color: black;
+  color: white;
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+  opacity: 1;
+  transition: 0.3s;
+  justify-content: center;
+  margin-left: 10%;
+  margin-bottom: 1%;
+  padding-bottom: 0%;
+}
+
+.btn:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
